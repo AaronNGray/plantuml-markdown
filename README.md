@@ -37,10 +37,10 @@ This part is simple, yet effective :) Simply use the PlantUML proxy `http://www.
 ![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml)
 ``` 
 
-Use the `RAW` version of your `*.iuml` files like that: [https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml](https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml) and prefix it with `src=`.
+Use the `RAW` version of your `*.iuml` files like that: [https://raw.githubusercontent.com/AaronNGray/plantuml-markdown/master/example-uml.iuml](https://raw.githubusercontent.com/AaronNGray/plantuml-markdown/master/example-uml.iuml) and prefix it with `src=`.
 
 Also you should use the `cache=no` option so that GitHub always renders the currently committed version of your PlantUML `*.iuml` files.
 
 That's all - simply see the diagram live:
 
-![example-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml)
+![example-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/AaronNGray/plantuml-markdown/master/example-uml.iuml)
